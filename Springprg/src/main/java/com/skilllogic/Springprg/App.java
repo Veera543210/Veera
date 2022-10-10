@@ -6,8 +6,13 @@ package com.skilllogic.Springprg;
  */
 public class App 
 {
+	
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        public void disppaly() {
+    		System.out.println( "Hello World!" );	
+    		
+    	}   
     }
 }
